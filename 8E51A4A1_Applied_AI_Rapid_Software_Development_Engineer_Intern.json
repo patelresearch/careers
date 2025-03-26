@@ -1,5 +1,7 @@
 {
-  "Job Title": "Rapid Software Development Engineer, Intern - Applied AI (India, Remote)",
+  "Title": "Rapid Software Development Engineer, Intern - Applied AI (India, Remote)",
+  "Term": "Internship",
+  "Id": "8E51A4A1",
   "common": {
     "$ref": "https://github.com/patelresearch/careers/blob/main/intern/common.json"
   },
