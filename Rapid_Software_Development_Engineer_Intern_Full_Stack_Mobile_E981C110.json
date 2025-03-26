@@ -1,7 +1,7 @@
 {
   "Job Title": "Rapid Software Development Engineer, Intern - Full Stack Mobile (India, Remote)",
   "common": {
-    "$ref": "https://github.com/patelresearch/careers/blob/main/open/intern/common.json"
+    "$ref": "https://github.com/patelresearch/careers/blob/main/intern/common.json"
   },
   "Responsibilities": [
     "Rapid Mobile Prototyping & Development: Quickly develop and deploy functional mobile applications and server-side components using technologies like React Native, Flutter, Swift (iOS), Kotlin/Java (Android), and Node.js and related technologies."
