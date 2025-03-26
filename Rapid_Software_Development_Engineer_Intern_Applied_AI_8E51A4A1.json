@@ -1,7 +1,7 @@
 {
   "Job Title": "Rapid Software Development Engineer, Intern - Applied AI (India, Remote)",
   "common": {
-    "$ref": "https://github.com/patelresearch/careers/blob/main/open/intern/common.json"
+    "$ref": "https://github.com/patelresearch/careers/blob/main/intern/common.json"
   },
   "Responsibilities": {
     "AI Model Integration & Development": "Integrate and develop applications/servers leveraging various AI models (internal and external).",
