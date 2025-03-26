@@ -1,0 +1,43 @@
+{
+  "Job Description": "We are seeking a highly motivated and exceptionally quick-learning Rapid Software Development Engineering Intern, to join our team. This internship is designed for individuals who are passionate about pushing the boundaries of development and leveraging cutting-edge AI tools to significantly accelerate the development process. You will be instrumental in rapidly prototyping and building functional applications, contributing to the development of innovative solutions.",
+  "Responsibilities": {
+    "Rapid Prototyping & Development": "Quickly develop and deploy functional applications and server-side components using relevant technologies.",
+    "AI-Powered Development": "Master the use of state-of-the-art AI code generators, models, IDEs, and assistants to maximize development efficiency and productivity. Continously analyze the strengths and weaknesses of these tools and adapt using them accordingly. (Must be a killer at this or on the path to becoming one).",
+    "Server-Side Development": "Design and implement robust and scalable server-side solutions, including RESTful or GraphQL APIs.",
+    "Independent Problem Solving": "Analyze complex problems, research potential solutions, and rapidly prototype them to demonstrate viability.",
+    "Incremental Development & Demonstrations": "Build and iterate on features incrementally, ensuring each stage is demo-able and provides tangible value.",
+    "Creative Input & Innovation": "Stay informed about the latest development trends and technologies, and proactively contribute creative ideas and recommendations to enhance our products.",
+    "Rapid Development Strategies": "Employ techniques like scaffolding, mocking, timeboxing and other rapid development methodologies to build working prototypes as quickly as possible.",
+    "Continuous Learning": "Demonstrate a strong ability to quickly learn and adapt to new technologies, frameworks and development practices.",
+    "Software Testing": "Implement and maintain unit, integration, and end-to-end tests to ensure application quality.",
+    "Unix/Linux": "Should be comfortable working with Unix/Linux system/environment. Willing to develop a deep understanding of these systems for development and engineering.",
+    "Version Control": "Utilize Git and adhere to version control best practices."
+  },
+  "Required Skills & Qualifications": {
+    "AI Tool Proficiency": "Demonstrated ability to effectively use AI code generators, models, IDEs, and assistants to the fullest of their capability.",
+    "Analytical & Problem-Solving Skills": "Ability to independently analyze problems and develop creative solutions.",
+    "Rapid Development Mindset": "Comfortable with rapid prototyping and incremental development.",
+    "Creative Thinking": "Ability to contribute innovative ideas and recommendations.",
+    "Quick Learner": "Willing to quickly grasp new concepts and technologies. Ability to pivot based on changing demands of the product/solution.",
+    "Excellent Communication Skills": "Ability to effectively communicate technical concepts, demonstrate working prototypes and collaborate with team members in a remote environment.",
+    "Computer Science Fundamentals": "Strong knowledge of computer science fundamentals like algorithms, data structures and distributed systems. This proficiency should be used to assess, analyze and judiciously augment the use of AI generated answers and solutions."
+  },
+  "Preferred Qualifications": [
+    "Experience with specific AI code generation, automation tools and models.",
+    "Knowledge of commonly used database technologies (e.g, MongoDB, PostgreSQL, MySQL).",
+    "Experience with public cloud platforms and application/service deployment strategies. (e.g., AWS, Azure, GCP, Digital Ocean).",
+    "Portfolio of previous development projects (e.g., GitHub profile).",
+    "Experience with containerization using Docker.",
+    "Basic understanding of DevOps principles.",
+    "Knowledge or willingness to develop in one or more of Go, Rust, or Python.",
+    "Looking forward to joining the team permanently upon successful completion of the internship."
+  ],
+  "Preferred Location": "Nagpur, MH (Central India) - Not a requirement initially. However, in the future it is expected to be present in the office in person",
+  "Benefits": [
+    "Hands-on experience in a fast-paced, innovative environment.",
+    "Potential for full-time employment after the internship.",
+    "Potential to become a core member of the development team and more+",
+    "3/6-month internship period."
+  ],
+  "To Apply": "Please submit your resume and/or portfolio (or links to relevant projects, including a GitHub profile if available) to join[at]patel.dev - In your cover letter or email, please highlight your experience with AI code generation tools, your approach to rapid development, and your interest in potential long-term employment."
+}
