@@ -1,0 +1,16 @@
+{
+  "Job Title": "Rapid Software Development Engineer, Intern - Full Stack Web (India, Remote)",
+  "common": {
+    "$ref": "https://github.com/patelresearch/careers/blob/main/open/intern/common.json"
+  },
+  "Responsibilities": [
+    "Rapid Prototyping & Development: Quickly develop and deploy functional web applications and server-side components using HTML, CSS, JavaScript, TypeScript, React, Next.js, and Node.js and related technologies."
+  ],
+  "Required Skills & Qualifications": [
+    "Essential Web Development: Strong proficiency in HTML, CSS, JavaScript, and TypeScript.",
+    "Frontend Frameworks: Experience with React and Next.js and related technologies.",
+    "Integration: Comfortable integrating with external systems and services, including third-party APIs and data sources.",
+    "Backend Development: Comfortable developing server-side applications using Node.js (JavaScript/TypeScript).",
+    "Knowledge of web development security best practices."
+  ]
+}

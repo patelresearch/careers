@@ -1,0 +1,29 @@
+{
+  "Job Title": "Rapid Software Development Engineer, Intern - Applied AI (India, Remote)",
+  "common": {
+    "$ref": "https://github.com/patelresearch/careers/blob/main/open/intern/common.json"
+  },
+  "Responsibilities": {
+    "AI Model Integration & Development": "Integrate and develop applications/servers leveraging various AI models (internal and external).",
+    "Data Pipeline Development": "Design and implement data pipelines for AI model training and inference.",
+    "AI Tooling & Customization": "Evaluate, select, and customize AI tools and platforms to streamline development.",
+    "AI Trend Awareness & Guidance": "Stay updated on AI developments and provide guidance on model capabilities and vendor offerings.",
+    "Multi-Modal Application Development": "Develop applications integrating text, images, audio, and video data."
+  },
+  "Required Skills & Qualifications": {
+    "AI/ML Fundamentals": "Knowledge of AI/ML concepts, training, evaluation, and deployment.",
+    "Python & AI Libraries": "Strong Python skills with relevant libraries (TensorFlow, PyTorch, scikit-learn, Transformers).",
+    "Data Handling & Preprocessing": "Ability to handle, clean, and prepare large datasets for AI.",
+    "AI Learning Agility": "Willingness to learn and adapt to the evolving AI landscape.",
+    "Multi-Modal Concepts": "Familiarity with multi-modal AI."
+  },
+  "Preferred Qualifications": {
+    "Familiarity with or experience": [
+      "Specific AI frameworks and libraries.",
+      "Model training, inference, fine-tuning and deployment.",
+      "Vector databases.",
+      "Prompt development and engineering.",
+      "Multi-modal application development."
+    ]
+  }
+}
